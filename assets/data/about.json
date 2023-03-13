@@ -6,24 +6,24 @@
         },
         {
             "language": "en",
-            "description": "My journey as a robotics enthusiast began at the age of nine when I was gifted an RC car for my birthday. The wireless technology fascinated me, and I disassembled it to understand its inner workings. Spending long hours constructing and fixing my toys became a hobby, although I had no idea of the future challenges that awaited me.<br><br>In high school, I was introduced to drones and started designing and creating various hobby-grade robots. Pursuing a bachelor's degree in mechanical engineering provided me with a solid foundation in robot design concepts. Concurrently, I worked on programming skills, which I realized would be critical in automating my robots.<br><br>I completed internships on automation projects and worked in the Control Valves Industry for two years, acquiring practical experience. Eventually, I enrolled in a master's degree program in Robotics and Autonomous Systems, where I focused on developing aerial, land, and aquatic robots for real-time applications. <br><br>Today, I continue to seek new skills and knowledge, and I enjoy sharing what I've learned with others."
+            "description": "My path as a <i>programmer</i> has started at nineish years old, when I've fallen in love with <i>Logo</i>, an educational programming language used to captivate kids in the wonderful lands of <i>Programming</i>. I used to spend hours in a row trying to build figures and animations, using math and geometry. At that time, I just did not know the exciting challenges that were yet to come.<br><br>A few years later, I got an internship as a <i>Webmaster</i>, since then, I have never stopped. It has been more than a decade, where I'm having the chance to work with marvelous people, learning every day, traveling the world, and mainly, always making great friendships.<br><br>I had an entrepreneurship experience, when a friend of mine presented me <i>Magento</i>, an extremely popular e-commerce framework. After doing several courses and a lot of practice, I got contracts with agencies from São Paulo and Rio de Janeiro, Brazil. This entrepreneurship experience gave me the chance to see the other side of the coin, which contributed to sort of expand a bit more my consciousness as an employee.<br><br>Nowadays, I keep seeking new skills, learning and sharing my humble knowledge as much as possible."
         }
     ],
     "medias": [        
         {
             "icon": "linkedin",
             "title": "LinkedIn",
-            "http": "https://www.linkedin.com/in/aravindadhithps/"
+            "http": "https://www.linkedin.com/in/guilhermeborgesbastos/"
         },
         {
             "icon": "github",
             "title": "GitHub",
-            "http": "https://github.com/Aravind-Adhith"
+            "http": "https://github.com/guilhermeborgesbastos"
         },
         {
-            "icon": "twitter",
-            "title": "Twitter",
-            "http": "https://twitter.com/AdhithAravind"
+            "icon": "facebook",
+            "title": "Facebook",
+            "http": "https://www.facebook.com/guilherme.borgesbastos"
         }
     ],
     "hobbies": [        

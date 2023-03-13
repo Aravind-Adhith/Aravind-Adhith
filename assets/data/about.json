@@ -1,0 +1,47 @@
+{
+    "internationalizations": [
+        {
+            "language": "pt",
+            "description": "Minha caminhada como <i>programador</i> teve início aos nove anos de idade quando me apaixonei pelo <i>Logo</i>, uma linguagem de programação educacional usada para cativar crianças nas maravilhosas terras da <i>Programação</i>. Costumava passar horas seguidas tentando criar figuras e animações, usando matemática e geometria. Naquela época, eu simplesmente não conhecia os desafios emocionantes que ainda estavam por vir.<br><br>Alguns anos depois, consegui um estágio como <i>Webmaster</i>, desde então, nunca mais parei, sendo mais de uma década, onde venho tendo a chance de trabalhar com pessoas maravilhosas, aprendendo todos os dias, viajando pelo mundo e, principalmente, sempre fazendo grandes amizades.<br><br>Tive experiência como empreendedor, quando um amigo apresentou-me <i>Magento</i>, um framework de comércio eletrônico extremamente popular. Depois de fazer vários cursos e muita prática, consegui contratos com agências de São Paulo e Rio de Janeiro, Brasil. Essa experiência de empreendedorismo me deu a chance de ver o outro lado da moeda, o que contribuiu para expandir um pouco mais minha consciência como colaborador.<br><br>Atualmente, continuo buscando novas habilidades, aprendendo e compartilhando meu humilde conhecimento, tanto quanto possível."
+        },
+        {
+            "language": "en",
+            "description": "My journey as a robotics enthusiast began at the age of nine when I was gifted an RC car for my birthday. The wireless technology fascinated me, and I disassembled it to understand its inner workings. Spending long hours constructing and fixing my toys became a hobby, although I had no idea of the future challenges that awaited me.<br><br>In high school, I was introduced to drones and started designing and creating various hobby-grade robots. Pursuing a bachelor's degree in mechanical engineering provided me with a solid foundation in robot design concepts. Concurrently, I worked on programming skills, which I realized would be critical in automating my robots.<br><br>I completed internships on automation projects and worked in the Control Valves Industry for two years, acquiring practical experience. Eventually, I enrolled in a master's degree program in Robotics and Autonomous Systems, where I focused on developing aerial, land, and aquatic robots for real-time applications. <br><br>Today, I continue to seek new skills and knowledge, and I enjoy sharing what I've learned with others."
+        }
+    ],
+    "medias": [        
+        {
+            "icon": "linkedin",
+            "title": "LinkedIn",
+            "http": "https://www.linkedin.com/in/aravindadhithps/"
+        },
+        {
+            "icon": "github",
+            "title": "GitHub",
+            "http": "https://github.com/Aravind-Adhith"
+        },
+        {
+            "icon": "twitter",
+            "title": "Twitter",
+            "http": "https://twitter.com/AdhithAravind"
+        }
+    ],
+    "hobbies": [        
+        {
+            "icon": "biking",
+            "title": "Cycling"
+        },
+        {
+            "icon": "dumbbell",
+            "title": "Gym"
+        },
+        {
+            "icon": "suitcase-rolling",
+            "title": "Travel"
+        },
+        {
+            "icon": "book",
+            "title": "Read"
+        }
+    ]
+}
